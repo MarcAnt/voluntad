@@ -1,0 +1,11 @@
+{
+  "name": "voluntad",
+  "version": "1.0.0",
+  "description": "Ultima voluntad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Esqueda",
+  "license": "ISC"
+}
